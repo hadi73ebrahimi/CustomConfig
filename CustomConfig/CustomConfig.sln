@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomConfig", "CustomConfig.csproj", "{A460C270-4A56-4892-8481-C45415A30AB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomConfig Test", "..\CustomConfig Test\CustomConfig Test.csproj", "{8D2242BD-024E-4DF9-B1C8-9037952AE2F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A460C270-4A56-4892-8481-C45415A30AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A460C270-4A56-4892-8481-C45415A30AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A460C270-4A56-4892-8481-C45415A30AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A460C270-4A56-4892-8481-C45415A30AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D2242BD-024E-4DF9-B1C8-9037952AE2F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2242BD-024E-4DF9-B1C8-9037952AE2F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2242BD-024E-4DF9-B1C8-9037952AE2F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2242BD-024E-4DF9-B1C8-9037952AE2F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5A4F454-E500-496D-8588-D72C169212C2}
+	EndGlobalSection
+EndGlobal

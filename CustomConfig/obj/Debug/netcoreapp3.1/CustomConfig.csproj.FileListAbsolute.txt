@@ -1,0 +1,10 @@
+D:\projects\github\CustomConfig\CustomConfig\bin\Debug\netcoreapp3.1\CustomConfig.deps.json
+D:\projects\github\CustomConfig\CustomConfig\bin\Debug\netcoreapp3.1\CustomConfig.dll
+D:\projects\github\CustomConfig\CustomConfig\bin\Debug\netcoreapp3.1\CustomConfig.pdb
+D:\projects\github\CustomConfig\CustomConfig\obj\Debug\netcoreapp3.1\CustomConfig.csproj.AssemblyReference.cache
+D:\projects\github\CustomConfig\CustomConfig\obj\Debug\netcoreapp3.1\CustomConfig.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\github\CustomConfig\CustomConfig\obj\Debug\netcoreapp3.1\CustomConfig.AssemblyInfoInputs.cache
+D:\projects\github\CustomConfig\CustomConfig\obj\Debug\netcoreapp3.1\CustomConfig.AssemblyInfo.cs
+D:\projects\github\CustomConfig\CustomConfig\obj\Debug\netcoreapp3.1\CustomConfig.csproj.CoreCompileInputs.cache
+D:\projects\github\CustomConfig\CustomConfig\obj\Debug\netcoreapp3.1\CustomConfig.dll
+D:\projects\github\CustomConfig\CustomConfig\obj\Debug\netcoreapp3.1\CustomConfig.pdb

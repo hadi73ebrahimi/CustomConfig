@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CustomConfig Test/1.0.0": {
+        "dependencies": {
+          "CustomConfig": "1.0.0"
+        },
+        "runtime": {
+          "CustomConfig Test.dll": {}
+        }
+      },
+      "CustomConfig/1.0.0": {
+        "runtime": {
+          "CustomConfig.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomConfig Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomConfig/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

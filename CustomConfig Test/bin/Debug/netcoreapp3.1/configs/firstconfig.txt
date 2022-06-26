@@ -1,0 +1,6 @@
+#Ip my server port
+127..0.0.1
+#Port tcp port
+5555
+#LastUpdate  updated for the last time
+Sunday, June 26, 2022

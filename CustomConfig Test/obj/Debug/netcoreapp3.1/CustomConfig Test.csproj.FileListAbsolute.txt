@@ -1,0 +1,17 @@
+D:\projects\github\CustomConfig\CustomConfig Test\bin\Debug\netcoreapp3.1\CustomConfig Test.exe
+D:\projects\github\CustomConfig\CustomConfig Test\bin\Debug\netcoreapp3.1\CustomConfig Test.deps.json
+D:\projects\github\CustomConfig\CustomConfig Test\bin\Debug\netcoreapp3.1\CustomConfig Test.runtimeconfig.json
+D:\projects\github\CustomConfig\CustomConfig Test\bin\Debug\netcoreapp3.1\CustomConfig Test.runtimeconfig.dev.json
+D:\projects\github\CustomConfig\CustomConfig Test\bin\Debug\netcoreapp3.1\CustomConfig Test.dll
+D:\projects\github\CustomConfig\CustomConfig Test\bin\Debug\netcoreapp3.1\CustomConfig Test.pdb
+D:\projects\github\CustomConfig\CustomConfig Test\bin\Debug\netcoreapp3.1\CustomConfig.dll
+D:\projects\github\CustomConfig\CustomConfig Test\bin\Debug\netcoreapp3.1\CustomConfig.pdb
+D:\projects\github\CustomConfig\CustomConfig Test\obj\Debug\netcoreapp3.1\CustomConfig Test.csproj.AssemblyReference.cache
+D:\projects\github\CustomConfig\CustomConfig Test\obj\Debug\netcoreapp3.1\CustomConfig Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\github\CustomConfig\CustomConfig Test\obj\Debug\netcoreapp3.1\CustomConfig Test.AssemblyInfoInputs.cache
+D:\projects\github\CustomConfig\CustomConfig Test\obj\Debug\netcoreapp3.1\CustomConfig Test.AssemblyInfo.cs
+D:\projects\github\CustomConfig\CustomConfig Test\obj\Debug\netcoreapp3.1\CustomConfig Test.csproj.CoreCompileInputs.cache
+D:\projects\github\CustomConfig\CustomConfig Test\obj\Debug\netcoreapp3.1\CustomConfig Test.csproj.CopyComplete
+D:\projects\github\CustomConfig\CustomConfig Test\obj\Debug\netcoreapp3.1\CustomConfig Test.dll
+D:\projects\github\CustomConfig\CustomConfig Test\obj\Debug\netcoreapp3.1\CustomConfig Test.pdb
+D:\projects\github\CustomConfig\CustomConfig Test\obj\Debug\netcoreapp3.1\CustomConfig Test.genruntimeconfig.cache
